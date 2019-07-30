@@ -1,0 +1,33 @@
+.home-page-wrapper {
+    font-family: 'Montserrat', sans-serif;
+    .memory-quote {
+        font-style: italic;
+    }
+   
+    .picture {
+        .home-page-pic {             
+            width:100%;
+        }
+    }
+}
+.homepage-quotes {
+    display: grid;      
+    width:60%;
+    text-align: center;    
+    margin-left: 200px;
+    font-style: normal;
+    font-size: 23px;
+    letter-spacing: .20em;
+    line-height: 1.5em;
+    text-transform: uppercase;
+    
+    .homepage-montra{
+        font-weight: 400;
+    font-style: normal;
+    font-size: 19px;
+    letter-spacing: .01em;
+    line-height: 1.7em;
+    text-transform: none;
+    color: rgba(40,26,23,.6);
+    }
+}
