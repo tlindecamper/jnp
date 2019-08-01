@@ -5,7 +5,7 @@ import CompetitiveTeamContainer from '../gallery/compet-team-container';
 export default function CompTeams(){
   
     return (
-      <div className='app'>
+      <div >
         <h1>Competition Teams </h1>
         <div className="comp-gallery-pics">
             <CompetitiveTeamContainer/>

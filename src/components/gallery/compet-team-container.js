@@ -16,10 +16,11 @@ export default class CompetitiveTeamContainer extends Component {
         <div >
             <h1 className=''> Competition Season 2019 </h1>
         
-        <div className='compet-gallery-wrapper'>                 
-            <ImageGallery items={dancers} alt="custom design custom artwork"/>
+        <div className='compet-gallery-wrapper'>                       
+          < ImageGallery  items={dancers} alt="custom design custom artwork"/>
         </div> 
-        </div> 
+        </div>  
+        
         
 
       )

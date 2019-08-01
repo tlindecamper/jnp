@@ -1,0 +1,16 @@
+
+.heading {
+    font-family: 'Homemade Apple', cursive; 
+    font-size: 40px; 
+}
+.parent-link {   
+    a {   
+    color:grey;    
+    cursor: pointer;       
+    text-decoration: none;     
+        &:hover {
+            color: black;
+        }
+
+    }
+}
