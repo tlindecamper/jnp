@@ -4,13 +4,14 @@
     font-size: 40px; 
 }
 .parent-link {   
-    a {   
-    color:grey;    
-    cursor: pointer;       
-    text-decoration: none;     
-        &:hover {
-            color: black;
-        }
+    a {  
+        font-size:15px; 
+        color:grey;    
+        cursor: pointer;       
+        text-decoration: none;     
+            &:hover {
+                color: black;
+            }
 
     }
 }

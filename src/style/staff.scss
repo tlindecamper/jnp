@@ -1,0 +1,18 @@
+.staff-wrapper {
+    
+
+    .staff-container {
+        
+        
+        font-size: 20px; 
+        color: rgba(40, 26, 23, 0.6);      
+        .staff-columns {             
+            display:flex;  
+            width:80%;            
+            .staff-column {
+                padding:15px;
+   
+            }
+        }
+    }
+}
