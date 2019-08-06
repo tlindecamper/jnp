@@ -9,6 +9,7 @@ html {
     padding: 0;
     box-sizing: inherit;
     font-family: 'montserrat';
+    
 }
 
 body {
@@ -23,10 +24,12 @@ body {
 
 .app {
     margin-top: 2rem;
+    
     .page-container {
         display: flex;
         flex-direction: column;
         justify-content: center;
-        width: 100%;
+        color: rgba(40, 26, 23, 0.6); 
+       
     }   
 }

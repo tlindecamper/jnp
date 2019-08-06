@@ -1,18 +1,23 @@
-.staff-wrapper {
-    
-
-    .staff-container {
-        
-        
-        font-size: 20px; 
+.staff-wrapper {  
+   .header{
+       font-size:30px;
+       font-family: 'Homemade Apple', cursive;
+   }
+    .staff-container {        
+       
         color: rgba(40, 26, 23, 0.6);      
-        .staff-columns {             
+        .staff-columns {                        
             display:flex;  
-            width:80%;            
+            
+            
             .staff-column {
                 padding:15px;
-   
+                width: 30%;  
+                             
             }
-        }
-    }
+            
+            }
+            }
+       
+    
 }

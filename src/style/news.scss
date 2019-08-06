@@ -1,0 +1,35 @@
+.news-wrapper {
+    display: grid;
+    padding:60px;
+  
+  .header {
+    font-size:30px;
+    font-family: 'Homemade Apple', cursive;
+  } 
+  .news-column {
+    padding-top: 20px;
+    display:flex; 
+    
+    .leaping{
+        width:500px;    
+    }  
+    .words-wrapper {
+        width: 700px;
+        text-align:left;
+        padding:20px 0px 0px  40px;
+        .column-header{
+            font-size: 30px;
+            text-align: center;
+        }
+        .news-dates{
+            font-size:25px;
+       
+        }
+    } 
+    .titus{
+        width:500px;    
+    }
+    
+      
+  }
+}
