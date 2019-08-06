@@ -8,11 +8,15 @@
         color: rgba(40, 26, 23, 0.6);      
         .staff-columns {                        
             display:flex;  
-            
+           
             
             .staff-column {
-                padding:15px;
-                width: 30%;  
+               
+                width: 30%;
+                padding:20px;  
+                .staff-pic img {
+                    width: 80%;
+                }
                              
             }
             

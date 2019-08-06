@@ -6,7 +6,7 @@ export default class SmallProdigy extends Component {
   render() {
     return (
       <div className='app'>
-        <h1>small prodigy </h1>
+        <h1>Small prodigy </h1>
         <h1>
           Advanced , 8-10 Hours Per Week
         </h1>

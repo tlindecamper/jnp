@@ -8,7 +8,7 @@ export default class Contact extends Component {
   render() {
     return (
       <div className='contact-page-wrapper'>
-        <h1>Contact Us </h1>
+        <div className='title'>Contact Us </div>
         <div className='pretty-wrapper'>
           <div className='contact-info background-image' >
             <img className='background' ></img>
