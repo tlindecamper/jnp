@@ -1,0 +1,44 @@
+@media (max-width:615px) {
+    .app{
+        .page-container{
+        .nav-wrapper{  
+            height:190px;                       
+            .left-side{                       
+                .logo{
+                    width:100px;
+                    height:120px;             
+                }   
+        .nav-link-wrapper {
+            width:90vw;
+        }                   
+        } 
+        .nav-bar-banner{
+            width:100%;
+            height:30%;
+            margin-left: 1px;
+            .nav-words{
+                font-size:1.5rem;
+                padding-top:2%;
+                
+            }
+        } 
+        
+        }  
+        // homepage-styles 
+        .home-page-wrapper{       
+            .testimonials-wrapper{
+                .squares{
+                    .square{
+                        display:flex;
+                        flex-wrap: wrap;
+                    }
+                }                
+            }           
+            .homepage-quotes{            
+                width:99%;
+                margin-left:1px;           
+            }                
+        }
+    }
+}
+}   
