@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export default class Combination extends Component {
   render() {
     return (
-      <div className='app'>
+      <div className='combination-wrapper'>
         <h1>Combination Classes </h1>
         <div>
         <img className='combo-main-pic' src='/assets/combo-pic/025_0088-2+3.jpg'></img>
@@ -18,11 +18,11 @@ export default class Combination extends Component {
             <img className='jazz' src='/assets/combo-pic/jazz+tech++Camps+Summer+2019+new.jpg' ></img>
           </div>
         </div>
-        <div>
-          <h1>
+        <div className='registration-wrapper'>
+          <div className='fall'>
           FALL REGISTRATION NOW OPEN!$35 Annual Registration FeeMonthly Tuition [1 Hour a Week $45] [2 Hours a Week $85]*Family Discounts Available*
-          </h1>
-          <h1>CURRENT DANCERS ENROLL HERE</h1>
+          </div>
+          <div>CURRENT DANCERS ENROLL HERE</div>
         </div>
         <div>
           <img src='/assets/combo-pic/Fall+2019+New.jpg'></img>

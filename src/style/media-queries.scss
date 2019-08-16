@@ -39,6 +39,47 @@
                 margin-left:1px;           
             }                
         }
+        // competition team styles
+        .image-gallery-content{
+            margin-left:9%;
+        }
+        // combination classes styles
+        .p-camp{
+            width:300px;
+        }
+        .acro{
+            width:300px;    
+        }
+        .mp-p-camp{
+            width:300px;
+        }
+        .jazz{
+            width:300px;
+        }
+        // gallery styles
+        .competition-header{
+            .dancers-gallery-wrapper{
+             margin-left:30%;   
+            }
+        }
+        // news styles
+        .news-wrapper{            
+            padding:1px;            
+            .header{
+                display: flex;
+                text-align: center;
+            }
+            .news-banner{
+                display: flex;
+                .banner-pic{
+                    width:100vw;;
+                }
+            }
+            .news-column{
+                
+                
+            }
+        }
     }
 }
 }   

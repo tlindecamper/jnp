@@ -15,7 +15,7 @@ export default class DancersGalleryContainer extends Component {
         
            
         <div className='competition-header'>
-            <h1 className='comp-header-words'> Competition Season 2019 </h1>
+            <h1 className='comp-header-words'> Gallery 2019</h1>
         
         <div className='dancers-gallery-wrapper'>                 
             <ImageGallery items={dancers} alt="custom design custom artwork"/>
