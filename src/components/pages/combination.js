@@ -25,11 +25,11 @@ export default class Combination extends Component {
           <div>CURRENT DANCERS ENROLL HERE</div>
         </div>
         <div>
-          <img src='/assets/combo-pic/Fall+2019+New.jpg'></img>
+          <img className='fall-schedule' src='/assets/combo-pic/Fall+2019+New.jpg'></img>
         </div>
         <div>
           <h1>
-          FALL SESSION: SEPTEMBER -DECEMBER  WINTER/SPRING SESSION: JAN - JUNE
+          FALL SESSION: SEPTEMBER -DECEMBER <br></br> WINTER/SPRING SESSION: JAN - JUNE
           </h1>
           <h2>Our Dancers will have a Winter recital in December, and a Spring recital in June.</h2>
         </div>

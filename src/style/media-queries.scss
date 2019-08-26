@@ -45,16 +45,19 @@
         }
         // combination classes styles
         .p-camp{
-            width:300px;
+            width:50%;
         }
         .acro{
-            width:300px;    
+            width:50%;    
         }
         .mp-p-camp{
-            width:300px;
+            width:50%;
         }
         .jazz{
-            width:300px;
+            width:50%;
+        }
+        .fall-schedule{
+            width:90%;
         }
         // gallery styles
         .competition-header{
@@ -67,7 +70,8 @@
             padding:1px;            
             .header{
                 display: flex;
-                text-align: center;
+               margin-left:20%;
+                
             }
             .news-banner{
                 display: flex;
@@ -76,8 +80,11 @@
                 }
             }
             .news-column{
-                
-                
+                display: flex;
+                flex-wrap: wrap;
+                .words-wrapper{
+                    width: 80vw;
+                }
             }
         }
     }
