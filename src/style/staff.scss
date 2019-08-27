@@ -3,15 +3,11 @@
        font-size:30px;
        font-family: 'Homemade Apple', cursive;
    }
-    .staff-container {        
-       
+    .staff-container {       
         color: rgba(40, 26, 23, 0.6);      
         .staff-columns {                        
-            display:flex;  
-           
-            
-            .staff-column {
-               
+            display:flex;          
+            .staff-column {               
                 width: 30%;
                 padding:20px;  
                 .staff-pic img {

@@ -87,6 +87,21 @@
                 }
             }
         }
+        //staff styles//
+        .staff-columns{
+            display:flex;
+            flex-wrap: wrap;
+            .staff-column{
+            width:100vw; 
+            padding: 1px;
+                
+            }
+        }
+        //contact styles//
+        .background-image{
+            width:80vw;   
+        }
+
     }
 }
 }   
